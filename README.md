@@ -8,5 +8,5 @@
 
 # How the program works
 
-1. It spawns a star with planets and planets may have moons and moons may further have moons uptill any number of specified layers
+1. It spawns a star with planets and planets may have moons and moons may further have moons uptill any number of specified layers  
 ![](https://github.com/Divy1211/SolarSys3D/blob/master/sol.gif)  
